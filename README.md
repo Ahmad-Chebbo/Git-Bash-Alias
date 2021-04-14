@@ -1,6 +1,16 @@
 # Git-Bash-Alias
 My personal git bash alias for composer, NPM, Laravel and directories
 
+# How to use them:
+
+1. Go to C:\Program Files\Git\etc\profile.d in your PC.
+2. Open your aliases.sh file with any editor.
+3. Open aliases.sh included in this repository
+4. Copy the content of aliases.sh 
+5. Paste the content inside your aliases.sh file
+6. Save as administrator and close 
+7. Open your git bash anywhere and enjoy your new aliases
+
 # Directories
 * alias .. = "cd ../"
 
