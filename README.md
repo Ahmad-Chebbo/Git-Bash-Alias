@@ -82,7 +82,7 @@ My personal git bash alias for composer, NPM, Laravel and directories
 
 * alias gpl = 'git pull origin master'
 
-* alias wip = 'git add . && git commit -m “wip” && git push'
+* alias initial = 'git add . && git commit -m "Initialize" && git push'
 
 * alias gst = 'git status'
 
